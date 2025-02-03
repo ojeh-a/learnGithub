@@ -1,0 +1,5 @@
+export { default as About } from "./AboutMe"
+export { default as ContactMe } from "./ContactMe"
+export { default as Home } from "./Home"
+export { default as Services } from "./Services"
+export { default as HomeLayout } from "./HomeLayout"
